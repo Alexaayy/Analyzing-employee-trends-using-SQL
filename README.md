@@ -1,12 +1,12 @@
 # Analyzing-employee-trends-using-SQL
 [Analyzing Employee Trends.csv](Analyzing Employee Trends.sql)
 
-#Project Description
+# Project Description
 This project involved performing extensive analysis on HR employee data to uncover insights and trends. The data contained information on employees across departments, including demographics, job roles, satisfaction, attrition and more.
 
 I utilized SQL to explore the data and answer key business questions to derive actionable insights.
 
-#Tasks Performed
+# Tasks Performed
 Performed general data exploration and validation checks on the HR dataset
 
 Wrote SQL queries to analyze employee counts, averages, distributions across various dimensions like department, age, education etc.
