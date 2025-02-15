@@ -7,20 +7,20 @@ This project involved performing extensive analysis on HR employee data to uncov
 I utilized SQL to explore the data and answer key business questions to derive actionable insights.
 
 # Tasks Performed
-Performed general data exploration and validation checks on the HR dataset
+* Performed general data exploration and validation checks on the HR dataset
 
-Wrote SQL queries to analyze employee counts, averages, distributions across various dimensions like department, age, education etc.
+* Wrote SQL queries to analyze employee counts, averages, distributions across various dimensions like department, age, education etc.
 
-Identified top job roles and satisfaction levels by department to understand departmental trends
+* Identified top job roles and satisfaction levels by department to understand departmental trends
 
-Calculated employee attrition rates by age band to pinpoint high risk groups
+* Calculated employee attrition rates by age band to pinpoint high risk groups
 
-Analyzed factors related to attrition like age, education, job satisfaction to uncover drivers
+* Analyzed factors related to attrition like age, education, job satisfaction to uncover drivers
 
-Compared averages and aggregates across different employee segments and criteria
+* Compared averages and aggregates across different employee segments and criteria
 
-Identified top and bottom performers on key metrics like satisfaction, attrition based on criteria
+* Identified top and bottom performers on key metrics like satisfaction, attrition based on criteria
 
-Used SQL techniques like JOINs, GROUP BY, HAVING, CASE statements for complex analysis
+* Used SQL techniques like JOINs, GROUP BY, HAVING, CASE statements for complex analysis
 
-Organized and presented findings in a clear format for consumption by leadership
+* Organized and presented findings in a clear format for consumption by leadership
